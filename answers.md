@@ -36,4 +36,12 @@ Answer 8:commit f4d744ec3a0542bae6ae610a4a26d7f4788beea9 (HEAD -> master)
 Author: Chaas11 <nh462921@ohio.edu>
 Date:   Tue Jan 23 11:08:52 2024 -0500
 
-Answer
+Answer 9:On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10: The changes made online were not reflected in the local file.
+
+Answer 11: The git push command failed.
+
