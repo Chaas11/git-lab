@@ -32,7 +32,8 @@ Changes to be committed:
 Answer 7: On branch master
 nothing to commit, working tree clean
 
-Answer 8:commit f4d744ec3a0542bae6ae610a4a26d7f4788beea9 (HEAD -> master)
+Answer 8:
+commit f4d744ec3a0542bae6ae610a4a26d7f4788beea9 (HEAD -> master)
 Author: Chaas11 <nh462921@ohio.edu>
 Date:   Tue Jan 23 11:08:52 2024 -0500
 
@@ -44,4 +45,8 @@ nothing to commit, working tree clean
 Answer 10: The changes made online were not reflected in the local file.
 
 Answer 11: The git push command failed.
+
+Answer 12: The online changes in the github editor were reflected in the local file.
+
+Answer 13: . .. git-lab-2 Labs
 
